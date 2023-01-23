@@ -12,7 +12,7 @@ RadioLOGIC: A general model for processing unstructured reports and making decis
 
 
 ### Pre-training
-![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Pre-training.tif)
+![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Pre-training.png)
 Note: Framework and results of our natural language processing model for pre-training. (a) Structure of the model for pre-training-based on Bidirectional Encoder Representations from Transformers. (b) Detailed architecture of the transformer encoder. (c) Flow chart of this study. (d) Schematic diagram of the pre-training process.
 
 ### Downstream-tasks
@@ -24,11 +24,11 @@ Note: Flowcharts and information about target tasks. (A) Flow chart of imaging f
 
 ### Visualization
 * Word/sentence
-![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Visualization.tif)
+![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Visualization.png)
 Note: Visualizations of words and sentence. (A) Word cloud based on all radiological reports. (B) Visualization of word co-occurrence. (C) Association of Top 50 co-occurrence words. (D) Associations between words in a given report after pre-training. (E) The correlation between the selected word and other words in the report.
 
 * Repomics
-![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Repomics.tif)
+![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Repomics.png)
 Note: Examples of repomics feature extraction from corresponding images and radiological reports. (A) Mammography. (B) Ultrasound. (C) MRI. “***” in the radiological report indicates the patient’s private information.
 
 
