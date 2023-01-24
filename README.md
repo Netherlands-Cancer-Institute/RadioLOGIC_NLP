@@ -12,6 +12,7 @@ RadioLOGIC: A general model for processing unstructured reports and making decis
 
 
 ### Pre-training
+* Framework
 ![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Pre-training.png)
 Note: Framework and results of our natural language processing model for pre-training. (a) Structure of the model for pre-training-based on Bidirectional Encoder Representations from Transformers. (b) Detailed architecture of the transformer encoder. (c) Flow chart of this study. (d) Schematic diagram of the pre-training process.
 
