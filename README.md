@@ -2,6 +2,13 @@
 RadioLOGIC: A general model for processing unstructured reports and making decisions in healthcare
 
 (RadioLOGIC, RadioLogical repOmics driven General model Incorporating medical token Cognition).
+
+### Notes
+
+* pre-training.py: Model for ptr-training. 
+* RadioLOGIC_Repomics_train_and_test.py: Model for extracting repomics features.
+* RadioLOGIC_Downstream-tasks_train_and_test.py: Model for predicting BI-RADS scores and pathological outcome.
+
 ### Requirements:
 
 * pytorch 1.11.0
