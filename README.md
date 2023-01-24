@@ -1,4 +1,4 @@
-# NLP_RadioLOGIC
+# RadioLOGIC
 RadioLOGIC: A general model for processing unstructured reports and making decisions in healthcare
 (RadioLOGIC, RadioLogical repOmics driven General model Incorporating medical token Cognition).
 ### Requirements:
