@@ -1,7 +1,7 @@
 # RadioLOGIC
-RadioLOGIC: A general model for processing unstructured reports and making decisions in healthcare
+RadioLOGIC: A healthcare model for processing electronic health records and decision-making in breast disease
 
-(RadioLOGIC, RadioLogical repOmics driven General model Incorporating medical token Cognition).
+(RadioLOGIC, RadioLogical repOmics driven model incorporatinG medIcal token Cognition).
 
 ### Notes
 
@@ -30,7 +30,7 @@ Note: Framework and results of our natural language processing model for pre-tra
 Note: Flowchart and information about target tasks. (A) Flow chart of imaging feature extraction. (B) Architecture of the final model incorporating medical token cognition in this study.
 * Results (BI-RADS scores & Pathological outcome)
 ![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Downstream-tasks.png)
-Note: Prediction results for downstream tasks. (A) Confusion matrix results for predicting BI-RADS scores in the independent test cohort using RadioLOGIC without transfer learning. (B) Confusion matrix results for predicting BI-RADS scores in the independent test cohort using RadioLOGIC via transfer learning. (C) Receiver operating characteristic curves for predicting pathological outcome in the independent test cohort using RNN. (D) Receiver operating characteristic curves for predicting pathological outcome in the independent test cohort using RadioLOGIC. The 95% confidence intervals are shown as a shaded area for the ROC curve. ATT, Attention mechanism. BI-RADS, Breast Imaging-Reporting and Data System. RadioLOGIC, Radiological repomics driven general model incorporating medical token cognition. RNN, Recurrent neural networks. TF, Transfer learning.
+Note: Prediction results for downstream tasks. (A) Confusion matrix results for predicting BI-RADS scores in the independent test cohort using RadioLOGIC without transfer learning. (B) Confusion matrix results for predicting BI-RADS scores in the independent test cohort using RadioLOGIC via transfer learning. (C) Receiver operating characteristic curves for predicting pathological outcome in the independent test cohort using RNN. (D) Receiver operating characteristic curves for predicting pathological outcome in the independent test cohort using RadioLOGIC. The 95% confidence intervals are shown as a shaded area for the ROC curve. ATT, Attention mechanism. BI-RADS, Breast Imaging-Reporting and Data System. RadioLOGIC, Radiological repomics driven model incorporating medical token cognition. RNN, Recurrent neural networks. TF, Transfer learning.
 
 
 ### Visualization
