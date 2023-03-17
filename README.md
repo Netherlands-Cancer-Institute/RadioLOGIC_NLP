@@ -52,4 +52,4 @@ Email: ritse.mann@radboudumc.nl; r.mann@nki.nl; taotanjs@gmail.com
 
 Links: [Netherlands Cancer Institute](https://www.nki.nl/) [Radboud university medical center](https://www.radboudumc.nl/en/patient-care)
 
-<img src="https://github.com/Netherlands-Cancer-Institute/Multimodal_attention_DeepLearning/blob/main/Figures/NKI.png" width="253" height="132"/> <img src="https://github.com/Netherlands-Cancer-Institute/Multimodal_attention_DeepLearning/blob/main/Figures/RadboudUMC.png" width="350" height="113"/> <img src="https://github.com/Netherlands-Cancer-Institute/RadioLOGIC_NLP/blob/main/Figure/Maastricht.png" width="400" height="126"/>  
+<img src="https://github.com/Netherlands-Cancer-Institute/Multimodal_attention_DeepLearning/blob/main/Figures/NKI.png" width="253" height="132"/> <img src="https://github.com/Netherlands-Cancer-Institute/Multimodal_attention_DeepLearning/blob/main/Figures/RadboudUMC.png" width="350" height="113"/> <img src="https://github.com/Netherlands-Cancer-Institute/RadioLOGIC_NLP/blob/main/Figure/Maastricht.png" width="360" height="113.4"/>  
