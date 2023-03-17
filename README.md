@@ -48,7 +48,7 @@ Note: Examples of repomics feature extraction from corresponding images and radi
 ### Contact details
 If you have any questions please contact us. 
 
-Email: ritse.mann@radboudumc.nl; r.mann@nki.nl; taotanjs@gmail.com
+Email: ritse.mann@radboudumc.nl; r.mann@nki.nl; taotanjs@gmail.com; t.zhang@nki.nl
 
 Links: [Netherlands Cancer Institute](https://www.nki.nl/) [Radboud university medical center](https://www.radboudumc.nl/en/patient-care)
 
