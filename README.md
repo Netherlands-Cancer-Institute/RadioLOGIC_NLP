@@ -39,9 +39,10 @@ Note: Prediction results for downstream tasks. (A) Confusion matrix results for 
 Note: Visualizations of words and sentence. (A) Word cloud based on all radiological reports. (B) Visualization of word co-occurrence. (C) Association of Top 50 co-occurrence words. (D) Associations between words in a given report after pre-training. (E) The correlation between the selected word and other words in the report.
 
 * Repomics
+
 In line with the current terminology for extraction of quantitative data out of unstructured data (e.g. radiomics, pathomics etc.), we propose the we propose the term “repomics” (report omics) for extracting valuable features from electronic health records/reports.
 ![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Repomics.png)
-Note: Examples of repomics feature extraction from corresponding images and radiological reports. (A) Mammography. (B) Ultrasound. (C) MRI. “***” in the radiological report indicates the patient’s private information.
+Note: Examples of repomics feature extraction from corresponding images and radiological reports. (A) Mammography. (B) Ultrasound. (C) MRI. "***" in the radiological report indicates the patient's private information.
 
 
 ### Contact details
