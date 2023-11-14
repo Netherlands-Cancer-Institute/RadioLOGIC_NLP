@@ -42,6 +42,13 @@ Note: Visualizations of words and sentence. (A) Word cloud based on all radiolog
 ![image](https://github.com/Netherlands-Cancer-Institute/NLP_RadioLOGIC/blob/main/Figure/Repomics.png)
 Note: Examples of repomics feature extraction from corresponding images and radiological reports. (A) Mammography. (B) Ultrasound. (C) MRI. "***" in the radiological report indicates the patient's private information.
 
+### Citation
+If this work is helpful for you, please cite our paper as follows:
+
+```
+Zhang, T. et al. RadioLOGIC, a healthcare model for processing electronic health records and decision-making in breast disease. Cell Reports Medicine, 2023, 4(8).
+```
+[DOI](https://doi.org/10.1016/j.xcrm.2023.101131)
 
 ### Contact details
 If you have any questions please contact us. 
